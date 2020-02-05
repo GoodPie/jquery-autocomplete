@@ -1,0 +1,26 @@
+{
+  "name": "@goodpie/jquery-search-input",
+  "version": "0.0.1",
+  "description": "Adds autocomplete functionality to input boxes using JQuery",
+  "main": "jquery.input-autocomplete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodPie/jquery-autocomplete.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "autocomplete",
+    "input autocomplete"
+  ],
+  "author": "Brandyn Britton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoodPie/jquery-autocomplete/issues"
+  },
+  "homepage": "https://github.com/GoodPie/jquery-autocomplete#readme"
+}

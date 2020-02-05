@@ -1,0 +1,18 @@
+.autocompleteList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: 1px solid black;
+    z-index: 999
+}
+
+.autocompleteList li {
+    padding: 2px 5px;
+    background-color: white;
+    color: black;
+}
+
+.selected {
+    background-color: gray !important;
+    color: white !important;
+}

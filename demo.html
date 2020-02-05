@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script
+			  src="https://code.jquery.com/jquery-3.4.1.slim.js"
+			  integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI="
+              crossorigin="anonymous">
+        </script>
+        <script src="jquery.input-autocomplete.js"></script>
+        <script>
+            $(document).ready(function() {
+                $("#testInput").inputAutocomplete({
+                    predictableText: ["HelloWorld", "Harry", "Hell", "Hello", "Hero"]
+                })
+            })
+        </script>      
+		
+    </head>
+    <body>
+        <input type="text" id="testInput" />
+    </body>
+
+</html>

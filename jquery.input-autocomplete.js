@@ -149,7 +149,8 @@
                 "right": $(instance.element).position().right,
                 "list-style" : "none",
                 "padding": 0,
-                "border" : "1px solid black"    
+                "border" : "1px solid black",
+                "z-index": "999"
             });
 
             $(".autocompleteList").children().css({

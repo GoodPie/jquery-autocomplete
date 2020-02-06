@@ -88,8 +88,6 @@
                 // Word has changed so refresh the searchText array with words that match
                 if (wordHasChanged && currentWordMeta.word !== null) {
 
-                    console.log(currentWordMeta);
-
                     // Reset to nothing and refresh if words are valid
                     instance.searchText = []
                     for (let i = 0; i < instance.options.predictableText.length; i++) {

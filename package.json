@@ -1,6 +1,6 @@
 {
   "name": "@goodpie/jquery-search-input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds autocomplete functionality to input boxes using JQuery",
   "main": "jquery.input-autocomplete.js",
   "scripts": {
